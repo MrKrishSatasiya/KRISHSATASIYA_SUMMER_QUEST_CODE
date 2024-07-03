@@ -7,16 +7,16 @@
 </p>
 <br></br>
 <div>
-  <h4>👩‍💻 CODING SKILLS:</h4>
+  <h4>👩‍💻 CODING LANGUAGES:</h4>
 </div>
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,netlify,vscode)](https://krishsatasiya.netlify.app/)<br/>
 
 <div>
-  <h4>🎨 CREATIVE SKILLS:</h4>
+  <h4>🎨 GRAPHICS DESIGN'S:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ai,ps,svg)](https://krishsatasiya.netlify.app/)<br/>
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
@@ -29,12 +29,4 @@
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@mrkrishsatasiya)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:krishsatasiya44@gmail.com)&nbsp;&nbsp; 
-
-<!-- for update : https://github.com/tandpfun/skill-icons -->  
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mrkrishsatasiya&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkrishsatasiya&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
