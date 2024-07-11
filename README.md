@@ -11,7 +11,7 @@
   <h4>🎨 GRAPHICS DESIGN'S:</h4>
 </div>
 <div>
-  <h1>🕸WEBSITE LINK: <a href="https://krish-satasiya-summer-quest-code.netlify.app/">https://krish-satasiya-summer-quest-code.netlify.app/</a> </h1>
+  <h6>🕸WEBSITE LINK: <a href="https://krish-satasiya-summer-quest-code.netlify.app/">https://krish-satasiya-summer-quest-code.netlify.app/</a> </h6>
 </div>
 
 
