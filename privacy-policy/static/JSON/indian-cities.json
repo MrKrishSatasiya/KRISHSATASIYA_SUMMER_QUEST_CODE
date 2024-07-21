@@ -1,0 +1,2047 @@
+[{
+    "_id": "552e44b2d26ca1a6072a13c4",
+    "CountryCode": "IN",
+    "City": "Bhandup",
+    "State": "Maharastra",
+    "__v": 0
+}, {
+    "_id": "552412c20b02522823adfb42",
+    "CountryCode": "IN",
+    "City": "Bangalore",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "",
+    "CountryCode": "IN",
+    "City": "Bengaluru",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "",
+    "CountryCode": "IN",
+    "City": "Calcutta",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "552431674dcfcda923994cdf",
+    "CountryCode": "IN",
+    "City": "Indore",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e2a3270764ad22f634b3",
+    "CountryCode": "IN",
+    "City": "New Delhi",
+    "State": "Delhi",
+    "__v": 0
+}, {
+    "_id": "552438da4dcfcda92399505b",
+    "CountryCode": "IN",
+    "City": "Meerut",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552435f44dcfcda923994f59",
+    "CountryCode": "IN",
+    "City": "Allahabad",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241eb44dcfcda923993f65",
+    "CountryCode": "IN",
+    "City": "Patiala",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "55240d800b02522823adf8fb",
+    "CountryCode": "IN",
+    "City": "Panvel",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552438444dcfcda923995021",
+    "CountryCode": "IN",
+    "City": "Shahjahanpur",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240bb00b02522823adf878",
+    "CountryCode": "IN",
+    "City": "Palakkad",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523f149035abeee22591431",
+    "CountryCode": "IN",
+    "City": "Shimla",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "552424a94dcfcda9239941aa",
+    "CountryCode": "IN",
+    "City": "Kanchipuram",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55243a694dcfcda9239950d7",
+    "CountryCode": "IN",
+    "City": "Gorakhpur",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e129270764ad22f63362",
+    "CountryCode": "IN",
+    "City": "Nalbari",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "55241e9e4dcfcda923993f51",
+    "CountryCode": "IN",
+    "City": "Rupnagar",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f0f4035abeee22591400",
+    "CountryCode": "IN",
+    "City": "Karnal",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5523f19b035abeee22591471",
+    "CountryCode": "IN",
+    "City": "Bilaspur",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524410b4dcfcda923995500",
+    "CountryCode": "IN",
+    "City": "Nalgonda",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5523dddb270764ad22f6304f",
+    "CountryCode": "IN",
+    "City": "Kurnool",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552410df0b02522823adfa45",
+    "CountryCode": "IN",
+    "City": "Nanded",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5524107b0b02522823adfa0c",
+    "CountryCode": "IN",
+    "City": "Aurangabad",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523df87270764ad22f6318c",
+    "CountryCode": "IN",
+    "City": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552411170b02522823adfa59",
+    "CountryCode": "IN",
+    "City": "Nagpur",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5524322f4dcfcda923994d2e",
+    "CountryCode": "IN",
+    "City": "Bhopal",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e2da270764ad22f634b8",
+    "CountryCode": "IN",
+    "City": "Rajkot",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552420594dcfcda923994023",
+    "CountryCode": "IN",
+    "City": "Jaipur",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "552434934dcfcda923994e59",
+    "CountryCode": "IN",
+    "City": "Noida",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e411270764ad22f63530",
+    "CountryCode": "IN",
+    "City": "Ahmedabad",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55243e9c4dcfcda92399534f",
+    "CountryCode": "IN",
+    "City": "Rishikesh",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "552424624dcfcda923994179",
+    "CountryCode": "IN",
+    "City": "Sriperumbudur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523eff7035abeee225912b7",
+    "CountryCode": "IN",
+    "City": "Valsad",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55241cba4dcfcda923993def",
+    "CountryCode": "IN",
+    "City": "Patna",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "552433154dcfcda923994dad",
+    "CountryCode": "IN",
+    "City": "Gwalior",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243e3e4dcfcda92399532e",
+    "CountryCode": "IN",
+    "City": "Haldwani",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "552427b44dcfcda9239942b6",
+    "CountryCode": "IN",
+    "City": "Vellore",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552439154dcfcda923995070",
+    "CountryCode": "IN",
+    "City": "Roorkee",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241eff4dcfcda923993f85",
+    "CountryCode": "IN",
+    "City": "Amritsar",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523de7f270764ad22f630c3",
+    "CountryCode": "IN",
+    "City": "Guntur",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240d290b02522823adf8d1",
+    "CountryCode": "IN",
+    "City": "Mumbai",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55240d9e0b02522823adf909",
+    "CountryCode": "IN",
+    "City": "Pune",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55242ef94dcfcda923994bb0",
+    "CountryCode": "IN",
+    "City": "Jalalpur",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "5523f032035abeee225912c6",
+    "CountryCode": "IN",
+    "City": "Faridabad",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55243b4c4dcfcda92399513c",
+    "CountryCode": "IN",
+    "City": "Agra",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243f544dcfcda9239953a6",
+    "CountryCode": "IN",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5524187a4dcfcda923993c4d",
+    "CountryCode": "IN",
+    "City": "Udupi",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240fa20b02522823adf9c2",
+    "CountryCode": "IN",
+    "City": "Kalyan",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55243e9a4dcfcda92399534c",
+    "CountryCode": "IN",
+    "City": "Dehradun",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "55243dca4dcfcda9239952bd",
+    "CountryCode": "IN",
+    "City": "Jamshedpur",
+    "State": "Jharkhand",
+    "__v": 0
+}, {
+    "_id": "552419c54dcfcda923993cb6",
+    "CountryCode": "IN",
+    "City": "Bellary",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552423db4dcfcda92399412e",
+    "CountryCode": "IN",
+    "City": "Jodhpur",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "552436c24dcfcda923994fb4",
+    "CountryCode": "IN",
+    "City": "Tanda",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240ac60b02522823adf79d",
+    "CountryCode": "IN",
+    "City": "Srinagar",
+    "State": "Jammu & Kashmir",
+    "__v": 0
+}, {
+    "_id": "552436b24dcfcda923994fa7",
+    "CountryCode": "IN",
+    "City": "Nizamabad",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243f554dcfcda9239953a9",
+    "CountryCode": "IN",
+    "City": "Secunderabad",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5523e508270764ad22f6358a",
+    "CountryCode": "IN",
+    "City": "Anand",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e480270764ad22f6355b",
+    "CountryCode": "IN",
+    "City": "Modasa",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552428984dcfcda9239942ed",
+    "CountryCode": "IN",
+    "City": "Coimbatore",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552437274dcfcda923994fd1",
+    "CountryCode": "IN",
+    "City": "Lucknow",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524297b4dcfcda923994428",
+    "CountryCode": "IN",
+    "City": "Kolkata",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "552434904dcfcda923994e4d",
+    "CountryCode": "IN",
+    "City": "Ghaziabad",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552433ca4dcfcda923994e02",
+    "CountryCode": "IN",
+    "City": "Jabalpur",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "552429af4dcfcda923994481",
+    "CountryCode": "IN",
+    "City": "Howrah",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5523f03f035abeee225912cc",
+    "CountryCode": "IN",
+    "City": "Gurgaon",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5523e29a270764ad22f634b0",
+    "CountryCode": "IN",
+    "City": "Chandigarh",
+    "State": "Chandigarh",
+    "__v": 0
+}, {
+    "_id": "55240fa20b02522823adf9c1",
+    "CountryCode": "IN",
+    "City": "Ulhasnagar",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552435a14dcfcda923994f4f",
+    "CountryCode": "IN",
+    "City": "Unnao",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552428a24dcfcda9239942f3",
+    "CountryCode": "IN",
+    "City": "Karur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523f065035abeee225913a5",
+    "CountryCode": "IN",
+    "City": "Bikaner",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "552434a04dcfcda923994e67",
+    "CountryCode": "IN",
+    "City": "Aligarh",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552420f34dcfcda923994040",
+    "CountryCode": "IN",
+    "City": "Raipur",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "5523e008270764ad22f631f5",
+    "CountryCode": "IN",
+    "City": "Kakinada",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523ddb7270764ad22f63032",
+    "CountryCode": "IN",
+    "City": "Kuppam",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e00c270764ad22f631fa",
+    "CountryCode": "IN",
+    "City": "Rajahmundry",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523ef77035abeee2259128c",
+    "CountryCode": "IN",
+    "City": "Bharuch",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e38a270764ad22f63502",
+    "CountryCode": "IN",
+    "City": "Bhavnagar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55240ddd0b02522823adf924",
+    "CountryCode": "IN",
+    "City": "Solapur",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e2a6270764ad22f634b4",
+    "CountryCode": "IN",
+    "City": "Delhi",
+    "State": "Delhi",
+    "__v": 0
+}, {
+    "_id": "5523ef33035abeee22591275",
+    "CountryCode": "IN",
+    "City": "Vadodara",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55242a974dcfcda92399457c",
+    "CountryCode": "IN",
+    "City": "Kanpur",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5524245d4dcfcda923994172",
+    "CountryCode": "IN",
+    "City": "Chennai",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5524363f4dcfcda923994f77",
+    "CountryCode": "IN",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240d420b02522823adf8e2",
+    "CountryCode": "IN",
+    "City": "Thane",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5524187c4dcfcda923993c4e",
+    "CountryCode": "IN",
+    "City": "Mangalore",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55242ab94dcfcda9239946ae",
+    "CountryCode": "IN",
+    "City": "Mathura",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "55241ebf4dcfcda923993f6c",
+    "CountryCode": "IN",
+    "City": "Ludhiana",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f0cb035abeee225913ec",
+    "CountryCode": "IN",
+    "City": "Bhiwani",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5524247f4dcfcda92399418f",
+    "CountryCode": "IN",
+    "City": "Tiruvallur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5524288e4dcfcda9239942eb",
+    "CountryCode": "IN",
+    "City": "Erode",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523f051035abeee225912f6",
+    "CountryCode": "IN",
+    "City": "Mandi",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5524407e4dcfcda92399544d",
+    "CountryCode": "IN",
+    "City": "Warangal",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "55241ab34dcfcda923993d12",
+    "CountryCode": "IN",
+    "City": "Bagalkot",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240f490b02522823adf9a7",
+    "CountryCode": "IN",
+    "City": "Miraj",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e37e270764ad22f634f9",
+    "CountryCode": "IN",
+    "City": "Morvi",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e32b270764ad22f634d9",
+    "CountryCode": "IN",
+    "City": "Junagadh",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552411420b02522823adfa79",
+    "CountryCode": "IN",
+    "City": "Chandrapur",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523f01f035abeee225912c4",
+    "CountryCode": "IN",
+    "City": "Navsari",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55241ad64dcfcda923993d1a",
+    "CountryCode": "IN",
+    "City": "Belgaum",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240b1c0b02522823adf85d",
+    "CountryCode": "IN",
+    "City": "Thalassery",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523dfce270764ad22f631a5",
+    "CountryCode": "IN",
+    "City": "Srikakulam",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552430094dcfcda923994c39",
+    "CountryCode": "IN",
+    "City": "Darbhanga",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "55242a5b4dcfcda9239944f3",
+    "CountryCode": "IN",
+    "City": "Kharagpur",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5523df36270764ad22f6313d",
+    "CountryCode": "IN",
+    "City": "Nellore",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e418270764ad22f63534",
+    "CountryCode": "IN",
+    "City": "Gandhinagar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e4aa270764ad22f63561",
+    "CountryCode": "IN",
+    "City": "Patan",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e3db270764ad22f6351f",
+    "CountryCode": "IN",
+    "City": "Bhuj",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552410120b02522823adf9e7",
+    "CountryCode": "IN",
+    "City": "Dhule",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5524197e4dcfcda923993ca1",
+    "CountryCode": "IN",
+    "City": "Karwar",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552418554dcfcda923993c38",
+    "CountryCode": "IN",
+    "City": "Hassan",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "5524194e4dcfcda923993c87",
+    "CountryCode": "IN",
+    "City": "Dharwad",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240b5e0b02522823adf868",
+    "CountryCode": "IN",
+    "City": "Kozhikode",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552427734dcfcda923994295",
+    "CountryCode": "IN",
+    "City": "Karaikudi",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240ce70b02522823adf8c2",
+    "CountryCode": "IN",
+    "City": "Kottarakara",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "55243df54dcfcda9239952fc",
+    "CountryCode": "IN",
+    "City": "Ranchi",
+    "State": "Jharkhand",
+    "__v": 0
+}, {
+    "_id": "55241b444dcfcda923993d61",
+    "CountryCode": "IN",
+    "City": "Bhubaneswar",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "55242e054dcfcda923994ade",
+    "CountryCode": "IN",
+    "City": "Bihar Sharif",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "552411bf0b02522823adfac9",
+    "CountryCode": "IN",
+    "City": "Akola",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552413300b02522823adfb7a",
+    "CountryCode": "IN",
+    "City": "Mysore",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240cfc0b02522823adf8c5",
+    "CountryCode": "IN",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "55240b190b02522823adf85c",
+    "CountryCode": "IN",
+    "City": "Kannur",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552425674dcfcda9239941f0",
+    "CountryCode": "IN",
+    "City": "Thiruvarur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552421a24dcfcda92399408e",
+    "CountryCode": "IN",
+    "City": "Amet",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "552428214dcfcda9239942d1",
+    "CountryCode": "IN",
+    "City": "Salem",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523e1af270764ad22f6340c",
+    "CountryCode": "IN",
+    "City": "Tezpur",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "55242e0d4dcfcda923994ae7",
+    "CountryCode": "IN",
+    "City": "Gaya",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "55240e9d0b02522823adf972",
+    "CountryCode": "IN",
+    "City": "Karad",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55242d694dcfcda923994a6e",
+    "CountryCode": "IN",
+    "City": "Ponda",
+    "State": "Goa",
+    "__v": 0
+}, {
+    "_id": "55240fb60b02522823adf9c8",
+    "CountryCode": "IN",
+    "City": "Nashik",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552418cd4dcfcda923993c5a",
+    "CountryCode": "IN",
+    "City": "Davangere",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552419534dcfcda923993c88",
+    "CountryCode": "IN",
+    "City": "Hubli",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552413130b02522823adfb6e",
+    "CountryCode": "IN",
+    "City": "Kolar",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240bf40b02522823adf888",
+    "CountryCode": "IN",
+    "City": "Thrissur",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5524258f4dcfcda923994207",
+    "CountryCode": "IN",
+    "City": "Thanjavur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240c600b02522823adf89c",
+    "CountryCode": "IN",
+    "City": "Kottayam",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552412910b02522823adfb07",
+    "CountryCode": "IN",
+    "City": "Shillong",
+    "State": "Meghalaya",
+    "__v": 0
+}, {
+    "_id": "5523e41e270764ad22f63539",
+    "CountryCode": "IN",
+    "City": "Mandal",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e111270764ad22f6333a",
+    "CountryCode": "IN",
+    "City": "Barpeta",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5523ef06035abeee22591266",
+    "CountryCode": "IN",
+    "City": "Dahod",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552411f20b02522823adfad5",
+    "CountryCode": "IN",
+    "City": "Amravati",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241a0a4dcfcda923993ce4",
+    "CountryCode": "IN",
+    "City": "Raichur",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55241a3f4dcfcda923993cfa",
+    "CountryCode": "IN",
+    "City": "Bidar",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240c240b02522823adf88e",
+    "CountryCode": "IN",
+    "City": "Kochi",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552426f14dcfcda92399426f",
+    "CountryCode": "IN",
+    "City": "Tirunelveli",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240ca70b02522823adf8b1",
+    "CountryCode": "IN",
+    "City": "Chengannur",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "55242d064dcfcda9239949a8",
+    "CountryCode": "IN",
+    "City": "Gangtok",
+    "State": "Sikkim",
+    "__v": 0
+}, {
+    "_id": "55241e7d4dcfcda923993f34",
+    "CountryCode": "IN",
+    "City": "Sundargarh",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "5523e222270764ad22f63474",
+    "CountryCode": "IN",
+    "City": "Dibrugarh",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5523e1dc270764ad22f6345f",
+    "CountryCode": "IN",
+    "City": "Jorhat",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "55243d994dcfcda9239952ab",
+    "CountryCode": "IN",
+    "City": "Dhanbad",
+    "State": "Jharkhand",
+    "__v": 0
+}, {
+    "_id": "55242bdb4dcfcda9239947c9",
+    "CountryCode": "IN",
+    "City": "Jalpaiguri",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5523f18e035abeee22591469",
+    "CountryCode": "IN",
+    "City": "Solan",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243b7b4dcfcda92399514c",
+    "CountryCode": "IN",
+    "City": "Jhansi",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524350d4dcfcda923994e87",
+    "CountryCode": "IN",
+    "City": "Etawah",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55242e824dcfcda923994b5d",
+    "CountryCode": "IN",
+    "City": "Bhagalpur",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "55243cfd4dcfcda92399520d",
+    "CountryCode": "IN",
+    "City": "Dumka",
+    "State": "Jharkhand",
+    "__v": 0
+}, {
+    "_id": "55241d7b4dcfcda923993e51",
+    "CountryCode": "IN",
+    "City": "Kalinga",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "5523f1ee035abeee225914b3",
+    "CountryCode": "IN",
+    "City": "Udaipur",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243c344dcfcda9239951ad",
+    "CountryCode": "IN",
+    "City": "Jagdalpur",
+    "State": "Chattisgarh",
+    "__v": 0
+}, {
+    "_id": "5523e25c270764ad22f634aa",
+    "CountryCode": "IN",
+    "City": "Silchar",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "552429584dcfcda923994343",
+    "CountryCode": "IN",
+    "City": "Durgapur",
+    "State": "Tripura",
+    "__v": 0
+}, {
+    "_id": "55241fef4dcfcda923993ff8",
+    "CountryCode": "IN",
+    "City": "Faridkot",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "552420c34dcfcda92399402b",
+    "CountryCode": "IN",
+    "City": "Ajmer",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "5524323b4dcfcda923994d2f",
+    "CountryCode": "IN",
+    "City": "Vidisha",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "552439004dcfcda923995062",
+    "CountryCode": "IN",
+    "City": "Saharanpur",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e183270764ad22f633e0",
+    "CountryCode": "IN",
+    "City": "Kokrajhar",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5523f205035abeee225914c9",
+    "CountryCode": "IN",
+    "City": "Palampur",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243cb24dcfcda9239951ee",
+    "CountryCode": "IN",
+    "City": "Raigarh",
+    "State": "Chattisgarh",
+    "__v": 0
+}, {
+    "_id": "55241f324dcfcda923993fbc",
+    "CountryCode": "IN",
+    "City": "Gurdaspur",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f1ef035abeee225914b4",
+    "CountryCode": "IN",
+    "City": "Kangra",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "552438664dcfcda923995028",
+    "CountryCode": "IN",
+    "City": "Bareilly",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552418f14dcfcda923993c6a",
+    "CountryCode": "IN",
+    "City": "Sagar",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552424cd4dcfcda9239941ba",
+    "CountryCode": "IN",
+    "City": "Cuddalore",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523de2f270764ad22f6307c",
+    "CountryCode": "IN",
+    "City": "Machilipatnam",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55242aea4dcfcda9239946f4",
+    "CountryCode": "IN",
+    "City": "Bankura",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5523f268035abeee225914fc",
+    "CountryCode": "IN",
+    "City": "Jammu",
+    "State": "Jammu & Kashmir",
+    "__v": 0
+}, {
+    "_id": "5523f085035abeee225913d8",
+    "CountryCode": "IN",
+    "City": "Hisar",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55241f994dcfcda923993fdb",
+    "CountryCode": "IN",
+    "City": "Sultanpur",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f06a035abeee225913c8",
+    "CountryCode": "IN",
+    "City": "Rohtak",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55241fc84dcfcda923993fe4",
+    "CountryCode": "IN",
+    "City": "Sangrur",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523e103270764ad22f63313",
+    "CountryCode": "IN",
+    "City": "Rampur",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "552431a04dcfcda923994cf0",
+    "CountryCode": "IN",
+    "City": "Ujjain",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "552436874dcfcda923994f9e",
+    "CountryCode": "IN",
+    "City": "Badlapur",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240d810b02522823adf8fe",
+    "CountryCode": "IN",
+    "City": "Khopoli",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241e2f4dcfcda923993edd",
+    "CountryCode": "IN",
+    "City": "Sambalpur",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "5523ef8e035abeee22591294",
+    "CountryCode": "IN",
+    "City": "Ankleshwar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523f10f035abeee22591413",
+    "CountryCode": "IN",
+    "City": "Ambala",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "552430614dcfcda923994c5f",
+    "CountryCode": "IN",
+    "City": "Pusa",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "552436584dcfcda923994f7e",
+    "CountryCode": "IN",
+    "City": "Bhadohi",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240d4c0b02522823adf8eb",
+    "CountryCode": "IN",
+    "City": "Bhiwandi",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e141270764ad22f633be",
+    "CountryCode": "IN",
+    "City": "Bali",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5523e484270764ad22f6355e",
+    "CountryCode": "IN",
+    "City": "Dhansura",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55242f534dcfcda923994bcd",
+    "CountryCode": "IN",
+    "City": "Muzaffarpur",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "55240d470b02522823adf8e5",
+    "CountryCode": "IN",
+    "City": "Vasai",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55240d490b02522823adf8e8",
+    "CountryCode": "IN",
+    "City": "Dahanu",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e46a270764ad22f63550",
+    "CountryCode": "IN",
+    "City": "Visnagar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5524116d0b02522823adfa93",
+    "CountryCode": "IN",
+    "City": "Wardha",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55243fde4dcfcda9239953ec",
+    "CountryCode": "IN",
+    "City": "Bodhan",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "55243c954dcfcda9239951dd",
+    "CountryCode": "IN",
+    "City": "Janjgir",
+    "State": "Chattisgarh",
+    "__v": 0
+}, {
+    "_id": "5523e0b0270764ad22f632cc",
+    "CountryCode": "IN",
+    "City": "Vizianagaram",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e30f270764ad22f634d2",
+    "CountryCode": "IN",
+    "City": "Jamnagar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55242bc44dcfcda9239947b7",
+    "CountryCode": "IN",
+    "City": "Siliguri",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "5523e502270764ad22f63580",
+    "CountryCode": "IN",
+    "City": "Nadiad",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "552428f74dcfcda923994304",
+    "CountryCode": "IN",
+    "City": "Tiruppur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523f071035abeee225913d0",
+    "CountryCode": "IN",
+    "City": "Bahadurgarh",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55240ef20b02522823adf992",
+    "CountryCode": "IN",
+    "City": "Ratnagiri",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55240e930b02522823adf970",
+    "CountryCode": "IN",
+    "City": "Satara",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241f4a4dcfcda923993fc5",
+    "CountryCode": "IN",
+    "City": "Jalandhar",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523e3ef270764ad22f63526",
+    "CountryCode": "IN",
+    "City": "Gandhidham",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55240cba0b02522823adf8b7",
+    "CountryCode": "IN",
+    "City": "Mavelikara",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523f08b035abeee225913d9",
+    "CountryCode": "IN",
+    "City": "Hansi",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55240d350b02522823adf8d3",
+    "CountryCode": "IN",
+    "City": "Bandra",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e46b270764ad22f63551",
+    "CountryCode": "IN",
+    "City": "Himatnagar",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523f131035abeee2259141f",
+    "CountryCode": "IN",
+    "City": "Kaithal",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55240ded0b02522823adf92c",
+    "CountryCode": "IN",
+    "City": "Nagar",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552440314dcfcda923995410",
+    "CountryCode": "IN",
+    "City": "Karimnagar",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "55240c260b02522823adf88f",
+    "CountryCode": "IN",
+    "City": "Ernakulam",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5524410f4dcfcda923995502",
+    "CountryCode": "IN",
+    "City": "Bhongir",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5523f0e1035abeee225913fc",
+    "CountryCode": "IN",
+    "City": "Sonipat",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55241edf4dcfcda923993f76",
+    "CountryCode": "IN",
+    "City": "Moga",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523df1d270764ad22f6312d",
+    "CountryCode": "IN",
+    "City": "Markapur",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55242d284dcfcda9239949ef",
+    "CountryCode": "IN",
+    "City": "Itanagar",
+    "State": "Arunachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243fbc4dcfcda9239953e2",
+    "CountryCode": "IN",
+    "City": "Narsapur",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "552412210b02522823adfaec",
+    "CountryCode": "IN",
+    "City": "Yavatmal",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523e075270764ad22f63277",
+    "CountryCode": "IN",
+    "City": "Bhimavaram",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552438a14dcfcda923995045",
+    "CountryCode": "IN",
+    "City": "Moradabad",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55243f944dcfcda9239953d6",
+    "CountryCode": "IN",
+    "City": "Medak",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5523de34270764ad22f63080",
+    "CountryCode": "IN",
+    "City": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524117b0b02522823adfa9a",
+    "CountryCode": "IN",
+    "City": "Hinganghat",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55243ebd4dcfcda923995368",
+    "CountryCode": "IN",
+    "City": "Uttarkashi",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "5524400e4dcfcda9239953fd",
+    "CountryCode": "IN",
+    "City": "Mancherial",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "55243e9f4dcfcda923995350",
+    "CountryCode": "IN",
+    "City": "Vikasnagar",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "5524200d4dcfcda92399400e",
+    "CountryCode": "IN",
+    "City": "Muktsar",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f19b035abeee22591471",
+    "CountryCode": "IN",
+    "City": "Bilaspur",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524271b4dcfcda92399427d",
+    "CountryCode": "IN",
+    "City": "Kovilpatti",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240cdb0b02522823adf8c0",
+    "CountryCode": "IN",
+    "City": "Kollam",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523f11a035abeee22591418",
+    "CountryCode": "IN",
+    "City": "Kalka",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5524202c4dcfcda923994012",
+    "CountryCode": "IN",
+    "City": "Alwar",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "552433e24dcfcda923994e08",
+    "CountryCode": "IN",
+    "City": "Katni",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523f142035abeee2259142a",
+    "CountryCode": "IN",
+    "City": "Ladwa",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "552440d44dcfcda9239954b7",
+    "CountryCode": "IN",
+    "City": "Paloncha",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "55242f8d4dcfcda923994bee",
+    "CountryCode": "IN",
+    "City": "Katra",
+    "State": "Bihar",
+    "__v": 0
+}, {
+    "_id": "55241a894dcfcda923993d07",
+    "CountryCode": "IN",
+    "City": "Bijapur",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "552431b44dcfcda923994d00",
+    "CountryCode": "IN",
+    "City": "Ratlam",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241f3b4dcfcda923993fc0",
+    "CountryCode": "IN",
+    "City": "Pathankot",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "55241f5d4dcfcda923993fcd",
+    "CountryCode": "IN",
+    "City": "Hoshiarpur",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523e09b270764ad22f632af",
+    "CountryCode": "IN",
+    "City": "Kovvur",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241eae4dcfcda923993f60",
+    "CountryCode": "IN",
+    "City": "Rajpura",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523e22b270764ad22f6347f",
+    "CountryCode": "IN",
+    "City": "Tinsukia",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "552418d54dcfcda923993c61",
+    "CountryCode": "IN",
+    "City": "Shimoga",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55241f2e4dcfcda923993fbb",
+    "CountryCode": "IN",
+    "City": "Batala",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "55241fc84dcfcda923993fe5",
+    "CountryCode": "IN",
+    "City": "Dhuri",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523f06d035abeee225913cb",
+    "CountryCode": "IN",
+    "City": "Jhajjar",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55243ef04dcfcda923995388",
+    "CountryCode": "IN",
+    "City": "Lohaghat",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "552426d84dcfcda92399426a",
+    "CountryCode": "IN",
+    "City": "Sivakasi",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552421314dcfcda923994055",
+    "CountryCode": "IN",
+    "City": "Bhilwara",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "55242d6f4dcfcda923994a72",
+    "CountryCode": "IN",
+    "City": "Quepem",
+    "State": "Goa",
+    "__v": 0
+}, {
+    "_id": "552429224dcfcda92399430d",
+    "CountryCode": "IN",
+    "City": "Coonoor",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552427f84dcfcda9239942ca",
+    "CountryCode": "IN",
+    "City": "Dharmapuri",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240c330b02522823adf894",
+    "CountryCode": "IN",
+    "City": "Aluva",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552424cd4dcfcda9239941bb",
+    "CountryCode": "IN",
+    "City": "Villupuram",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552410ce0b02522823adfa37",
+    "CountryCode": "IN",
+    "City": "Hingoli",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241c144dcfcda923993dbd",
+    "CountryCode": "IN",
+    "City": "Balasore",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "552428e34dcfcda9239942fd",
+    "CountryCode": "IN",
+    "City": "Palladam",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523dcc6270764ad22f62f5d",
+    "CountryCode": "IN",
+    "City": "Anantapur",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e50b270764ad22f6358c",
+    "CountryCode": "IN",
+    "City": "Petlad",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e078270764ad22f6327b",
+    "CountryCode": "IN",
+    "City": "Tanuku",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552426064dcfcda92399422d",
+    "CountryCode": "IN",
+    "City": "Namakkal",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523e061270764ad22f6324f",
+    "CountryCode": "IN",
+    "City": "Eluru",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240e6c0b02522823adf965",
+    "CountryCode": "IN",
+    "City": "Ahmednagar",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552439c24dcfcda92399509e",
+    "CountryCode": "IN",
+    "City": "Gonda",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552410490b02522823adf9f6",
+    "CountryCode": "IN",
+    "City": "Chopda",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5523de35270764ad22f63082",
+    "CountryCode": "IN",
+    "City": "Nuzvid",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241f644dcfcda923993fcf",
+    "CountryCode": "IN",
+    "City": "Dasua",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "55240b460b02522823adf867",
+    "CountryCode": "IN",
+    "City": "Kasaragod",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523f204035abeee225914c8",
+    "CountryCode": "IN",
+    "City": "Dharamsala",
+    "State": "Himachal Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523f100035abeee2259140c",
+    "CountryCode": "IN",
+    "City": "Panipat",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55240ca50b02522823adf8af",
+    "CountryCode": "IN",
+    "City": "Tiruvalla",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "55241a2d4dcfcda923993cee",
+    "CountryCode": "IN",
+    "City": "Yadgir",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55243ede4dcfcda92399537d",
+    "CountryCode": "IN",
+    "City": "Haridwar",
+    "State": "Uttarakhand",
+    "__v": 0
+}, {
+    "_id": "5524107b0b02522823adfa0c",
+    "CountryCode": "IN",
+    "City": "Aurangabad",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241f884dcfcda923993fd5",
+    "CountryCode": "IN",
+    "City": "Garhshankar",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "552425614dcfcda9239941eb",
+    "CountryCode": "IN",
+    "City": "Nagapattinam",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "552428f34dcfcda923994301",
+    "CountryCode": "IN",
+    "City": "Pollachi",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55243c734dcfcda9239951c1",
+    "CountryCode": "IN",
+    "City": "Koni",
+    "State": "Chattisgarh",
+    "__v": 0
+}, {
+    "_id": "55243f604dcfcda9239953bc",
+    "CountryCode": "IN",
+    "City": "Uppal",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "5523e16d270764ad22f633cf",
+    "CountryCode": "IN",
+    "City": "Lanka",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5523debb270764ad22f63110",
+    "CountryCode": "IN",
+    "City": "Narasaraopet",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241e9b4dcfcda923993f49",
+    "CountryCode": "IN",
+    "City": "Karaikal",
+    "State": "Pondicherry",
+    "__v": 0
+}, {
+    "_id": "55241eba4dcfcda923993f67",
+    "CountryCode": "IN",
+    "City": "Nabha",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "5523e12b270764ad22f6336e",
+    "CountryCode": "IN",
+    "City": "Bala",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "5524258f4dcfcda923994206",
+    "CountryCode": "IN",
+    "City": "Ariyalur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523dd7e270764ad22f63004",
+    "CountryCode": "IN",
+    "City": "Chittoor",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240c190b02522823adf88c",
+    "CountryCode": "IN",
+    "City": "Paravur",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523ded8270764ad22f63120",
+    "CountryCode": "IN",
+    "City": "Ongole",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523e453270764ad22f63549",
+    "CountryCode": "IN",
+    "City": "Mahesana",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523df4a270764ad22f6314d",
+    "CountryCode": "IN",
+    "City": "Kavali",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241f524dcfcda923993fc7",
+    "CountryCode": "IN",
+    "City": "Phagwara",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "55241be24dcfcda923993daf",
+    "CountryCode": "IN",
+    "City": "Jajpur",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "5523df2a270764ad22f63137",
+    "CountryCode": "IN",
+    "City": "Cumbum",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524243b4dcfcda923994168",
+    "CountryCode": "IN",
+    "City": "Shiv",
+    "State": "Rajasthan",
+    "__v": 0
+}, {
+    "_id": "552440cd4dcfcda9239954ad",
+    "CountryCode": "IN",
+    "City": "Khammam",
+    "State": "Telangana",
+    "__v": 0
+}, {
+    "_id": "552434c64dcfcda923994e69",
+    "CountryCode": "IN",
+    "City": "Bulandshahr",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523de33270764ad22f6307f",
+    "CountryCode": "IN",
+    "City": "Gannavaram",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523f0cb035abeee225913ed",
+    "CountryCode": "IN",
+    "City": "Dadri",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5523e543270764ad22f6359c",
+    "CountryCode": "IN",
+    "City": "Godhra",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523efc5035abeee225912a7",
+    "CountryCode": "IN",
+    "City": "Bardoli",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "5523e41e270764ad22f63537",
+    "CountryCode": "IN",
+    "City": "Kalol",
+    "State": "Gujarat",
+    "__v": 0
+}, {
+    "_id": "55240e2a0b02522823adf94a",
+    "CountryCode": "IN",
+    "City": "Latur",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55240bf00b02522823adf886",
+    "CountryCode": "IN",
+    "City": "Ponnani",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523dec0270764ad22f63112",
+    "CountryCode": "IN",
+    "City": "Mangalagiri",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "552434984dcfcda923994e5e",
+    "CountryCode": "IN",
+    "City": "Hapur",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552431634dcfcda923994cdc",
+    "CountryCode": "IN",
+    "City": "Sendhwa",
+    "State": "Madhya Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523f281035abeee22591504",
+    "CountryCode": "IN",
+    "City": "Ramnagar",
+    "State": "Jammu & Kashmir",
+    "__v": 0
+}, {
+    "_id": "5523f05d035abeee22591360",
+    "CountryCode": "IN",
+    "City": "Rewari",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55240d480b02522823adf8e6",
+    "CountryCode": "IN",
+    "City": "Palghar",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "5524191d4dcfcda923993c79",
+    "CountryCode": "IN",
+    "City": "Hiriyur",
+    "State": "Karnataka",
+    "__v": 0
+}, {
+    "_id": "55240ba00b02522823adf875",
+    "CountryCode": "IN",
+    "City": "Manjeri",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "552434ca4dcfcda923994e6b",
+    "CountryCode": "IN",
+    "City": "Khurja",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "552426834dcfcda923994251",
+    "CountryCode": "IN",
+    "City": "Palani",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240dd20b02522823adf91a",
+    "CountryCode": "IN",
+    "City": "Wai",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "552426d84dcfcda923994267",
+    "CountryCode": "IN",
+    "City": "Sattur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "55240b0f0b02522823adf84d",
+    "CountryCode": "IN",
+    "City": "Kargil",
+    "State": "Jammu & Kashmir",
+    "__v": 0
+}, {
+    "_id": "5523ddf4270764ad22f63061",
+    "CountryCode": "IN",
+    "City": "Krishnagiri",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "55241dc84dcfcda923993e98",
+    "CountryCode": "IN",
+    "City": "Kashipur",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "5523df82270764ad22f63189",
+    "CountryCode": "IN",
+    "City": "Kota",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5524200c4dcfcda92399400d",
+    "CountryCode": "IN",
+    "City": "Jalalabad",
+    "State": "Punjab",
+    "__v": 0
+}, {
+    "_id": "552439164dcfcda923995073",
+    "CountryCode": "IN",
+    "City": "Muzaffarnagar",
+    "State": "Uttar Pradesh",
+    "__v": 0
+}, {
+    "_id": "55240b9c0b02522823adf873",
+    "CountryCode": "IN",
+    "City": "Tirur",
+    "State": "Kerala",
+    "__v": 0
+}, {
+    "_id": "5523f0ba035abeee225913e7",
+    "CountryCode": "IN",
+    "City": "Jind",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "5523e195270764ad22f633f4",
+    "CountryCode": "IN",
+    "City": "Raniganj",
+    "State": "Assam",
+    "__v": 0
+}, {
+    "_id": "55241b4c4dcfcda923993d65",
+    "CountryCode": "IN",
+    "City": "Puri",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "55241d024dcfcda923993e0f",
+    "CountryCode": "IN",
+    "City": "Angul",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "552427e24dcfcda9239942c4",
+    "CountryCode": "IN",
+    "City": "Hosur",
+    "State": "Tamil Nadu",
+    "__v": 0
+}, {
+    "_id": "5523de7d270764ad22f630be",
+    "CountryCode": "IN",
+    "City": "Gampalagudem",
+    "State": "Andhra Pradesh",
+    "__v": 0
+}, {
+    "_id": "5523f05a035abeee22591345",
+    "CountryCode": "IN",
+    "City": "Pali",
+    "State": "Haryana",
+    "__v": 0
+}, {
+    "_id": "55241e594dcfcda923993f08",
+    "CountryCode": "IN",
+    "City": "Jharsuguda",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "552410460b02522823adf9f4",
+    "CountryCode": "IN",
+    "City": "Bhusawal",
+    "State": "Maharashtra",
+    "__v": 0
+}, {
+    "_id": "55241b5a4dcfcda923993d6a",
+    "CountryCode": "IN",
+    "City": "Khurda",
+    "State": "Odisha",
+    "__v": 0
+}, {
+    "_id": "55242bc84dcfcda9239947be",
+    "CountryCode": "IN",
+    "City": "Darjeeling",
+    "State": "West Bengal",
+    "__v": 0
+}, {
+    "_id": "55241b224dcfcda923993d2a",
+    "CountryCode": "IN",
+    "City": "Kohima",
+    "State": "Nagaland",
+    "__v": 0
+}]
